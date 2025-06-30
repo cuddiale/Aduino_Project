@@ -1,0 +1,3 @@
+- Collegare il pin 13 di Arduino alla resistenza.
+- Collegare alla resistenza la gamba del led più lunga.
+- Collegare la gamba più corta del led al pin GND (ground) di Arduino.
