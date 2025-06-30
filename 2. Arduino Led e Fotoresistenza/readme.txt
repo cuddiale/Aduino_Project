@@ -1,0 +1,3 @@
+- Collegare il led ad Arduino come nel progetto 1.
+- Collegare al pin 5V di Arduino una resistenza da 100kΩ e ad essa la fotoresistenza e un cavetto che porti al pin A0. 
+- Collegare all’altra gamba della fotoresistenza il pin GND di Arduino.
