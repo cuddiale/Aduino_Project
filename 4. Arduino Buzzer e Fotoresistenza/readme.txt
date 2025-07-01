@@ -1,0 +1,3 @@
+- Collegare il polo negativo del buzzer al pin GROUND e il positivo al pin digitale 9.
+- Collegare al pin 5V una resistenza da 100 kΩ e all’altro capo di essa una fotoresistenza e il pin A0.
+- Collegare all’altra gamba della resistenza il pin GROUND.

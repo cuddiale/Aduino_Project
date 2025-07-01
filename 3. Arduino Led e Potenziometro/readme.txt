@@ -1,0 +1,3 @@
+-Collegare il led come nel progetto 1.
+-Collegare al pin A0 la gambetta centrale del potenziometro 
+-Collegare alle altre due gambe esterne una al GND e l'altra al pin 5V. Questo, non influisce sul funzionamento del potenziometro.
